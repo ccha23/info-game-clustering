@@ -5,7 +5,6 @@ from itertools import chain
 # lru_cache is used for caching the results into memory, for the same input, we don't have to calculate again
 import math
 import argparse
-from tqdm import tqdm
 from joblib import Parallel, delayed  # for parallel computing
 import sys
 from ctypes import *
