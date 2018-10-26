@@ -1,4 +1,4 @@
-networkx==2.1
+networkx==2.2
 numpy==1.14.2
 numpydoc==0.7.0
 joblib==0.11
