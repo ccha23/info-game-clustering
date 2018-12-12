@@ -1,9 +1,7 @@
 # Info-Clustering and Game-Clustering
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ccha23/info-game-clustering/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ccha23/info-game-clustering/master?urlpath=lab/tree/gameclustering_infoclustering.ipynb)
 
-This is a demonstration of the info-clustering and game-clustering algorithm reduced to weighted graphs. You may use the binder service to run this notebook.
+Implementations of Info-Clustering and Game-Clustering:
+1. See the [documentations](https://ccha23.github.io/info-game-clustering/) for some presentation slides.
+2. Click [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ccha23/info-game-clustering/master?urlpath=lab/tree/gameclustering_infoclustering.ipynb ) to launch a live demo in a Jupyter notebook.
 
-1. Click the [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ccha23/info-game-clustering/master) button.
-2. Jupyter notebook will start. Click gameclustering_infoclustering.ipynb in the root directory.
-
-You can run the code and modify them.
